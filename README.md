@@ -1,4 +1,4 @@
-Ashok Jangam
+
 Master's in Data Analytics | Clark University 
 3.5+ years of experience | Confirms, TCS  
 Skilled in Python, SQL, Spark, Power BI, and Cloud Platforms  
