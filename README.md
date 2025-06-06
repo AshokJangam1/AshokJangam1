@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @AshokJangam1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ashok Jangam
+Master's in Data Analytics | Clark University 
+3.5+ years of experience | Confirms, TCS  
+Skilled in Python, SQL, Spark, Power BI, and Cloud Platforms  
+Passionate about turning raw data into actionable insights
 
-<!---
-AshokJangam1/AshokJangam1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Projects:  
+Stock Market Predictor** – Real-time daily price prediction  
+Movie Recommender System** – Deep AutoEncoder on MovieLens  
+Airline Satisfaction Analysis** – NLP & visual dashboards  
+Power BI Data Cleaning Tool** – Transforming messy datasets
+
