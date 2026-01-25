@@ -1,55 +1,18 @@
-# Hi there, I'm [Ashok Jangam] 👋
+# 💫 About Me:
+AI/ML Engineer / Data Engineer 🤯 with 5 years of experience building scalable pipelines 🚀 not just studying them 📚<br>Into Cloud Architecture ☁️ and Big Data 🔍 turning raw information 💡 into real working ML systems ⚙️<br>Automating workflows ⚡ experimenting with NLP & Forecasting 💭 and building things that matter 🔥
 
-### AI & Data Engineer | Cloud Architecture Specialist
 
-I specialize in building scalable data pipelines, deploying Machine Learning models on AWS, and architecting Generative AI solutions. I bridge the gap between complex data engineering and actionable AI logic.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/ajangam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jangamashok111@gmail.com) 
 
----
-
-### 🛠 Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray.io-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-
-**AI & Data Engineering**
-![Generative AI](https://img.shields.io/badge/GenAI-RAG-purple?style=for-the-badge)
-![IBM Watsonx](https://img.shields.io/badge/IBM%20Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![Palantir](https://img.shields.io/badge/Palantir-black?style=for-the-badge)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshokJangam1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AshokJangam1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshokJangam1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AshokJangam1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-#### 1. [Enterprise RAG Pipeline]
-*A Retrieval-Augmented Generation system optimizing context retrieval for large-scale documentation.*
-* **The Tech:** Python, LangChain, AWS Bedrock, Vector DB.
-* **Key Achievement:** Reduced hallucination rates by implementing a custom DSPy optimizer.
-* **Architecture:**
-    > ![Architecture Diagram Placeholder](https://via.placeholder.com/600x200?text=Paste+Your+Architecture+Diagram+Here)
-
-#### 2. [Distributed Data Processing Engine]
-*High-throughput data ingestion pipeline tailored for financial risk modeling.*
-* **The Tech:** AWS Lambda, S3, DynamoDB, Ray Framework.
-* **Key Achievement:** Processed 1TB+ of data with <500ms latency using distributed computing.
-
----
-
-### 📜 Certifications & Learning
-* **[SQL Advanced]** - *Issuer (e.g., AWS, Databricks)*
-* **[Python]** - *Issuer*
-* **[AWS]
-
----
-
-### 📫 Connect with Me
-* [LinkedIn](https://www.linkedin.com/in/ajangam/)
-* [Portfolio Website](https://your-website.com)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
